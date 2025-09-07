@@ -1,0 +1,426 @@
+[
+    {
+        "question": "How tall is the Burj Khalifa?",
+        "choice1": "728 meters",
+        "choice2": "828 meters",
+        "choice3": "928 meters",
+        "choice4": "628 meters",
+        "answer": 2
+    },
+    {
+        "question": "Which is the largest ocean on Earth?",
+        "choice1": "Atlantic Ocean",
+        "choice2": "Indian Ocean",
+        "choice3": "Pacific Ocean",
+        "choice4": "Arctic Ocean",
+        "answer": 3
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "choice1": "Au",
+        "choice2": "Ag",
+        "choice3": "Fe",
+        "choice4": "Cu",
+        "answer": 1
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choice1": "Venus",
+        "choice2": "Jupiter",
+        "choice3": "Mars",
+        "choice4": "Saturn",
+        "answer": 3
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "choice1": "Vincent van Gogh",
+        "choice2": "Leonardo da Vinci",
+        "choice3": "Pablo Picasso",
+        "choice4": "Michelangelo",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "choice1": "Seoul",
+        "choice2": "Beijing",
+        "choice3": "Tokyo",
+        "choice4": "Bangkok",
+        "answer": 3
+    },
+    {
+        "question": "In which year did World War II end?",
+        "choice1": "1945",
+        "choice2": "1944",
+        "choice3": "1946",
+        "choice4": "1943",
+        "answer": 1
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "choice1": "Lion",
+        "choice2": "Cheetah",
+        "choice3": "Leopard",
+        "choice4": "Tiger",
+        "answer": 2
+    },
+    {
+        "question": "Which continent is the largest?",
+        "choice1": "North America",
+        "choice2": "Africa",
+        "choice3": "Europe",
+        "choice4": "Asia",
+        "answer": 4
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "choice1": "Charles Dickens",
+        "choice2": "William Shakespeare",
+        "choice3": "Jane Austen",
+        "choice4": "Mark Twain",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choice1": "Sydney",
+        "choice2": "Melbourne",
+        "choice3": "Canberra",
+        "choice4": "Perth",
+        "answer": 3
+    },
+    {
+        "question": "How many elements are in the periodic table?",
+        "choice1": "118",
+        "choice2": "120",
+        "choice3": "116",
+        "choice4": "122",
+        "answer": 1
+    },
+    {
+        "question": "Which country is home to the Great Barrier Reef?",
+        "choice1": "Brazil",
+        "choice2": "Indonesia",
+        "choice3": "Australia",
+        "choice4": "Thailand",
+        "answer": 3
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "choice1": "Monaco",
+        "choice2": "Vatican City",
+        "choice3": "San Marino",
+        "choice4": "Liechtenstein",
+        "answer": 2
+    },
+    {
+        "question": "Who is known as the father of computer science?",
+        "choice1": "Alan Turing",
+        "choice2": "Bill Gates",
+        "choice3": "Steve Jobs",
+        "choice4": "Charles Babbage",
+        "answer": 1
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "choice1": "Gold",
+        "choice2": "Iron",
+        "choice3": "Diamond",
+        "choice4": "Platinum",
+        "answer": 3
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "choice1": "Amazon",
+        "choice2": "Nile",
+        "choice3": "Mississippi",
+        "choice4": "Yangtze",
+        "answer": 2
+    },
+    {
+        "question": "What is the main component of the Sun?",
+        "choice1": "Helium",
+        "choice2": "Oxygen",
+        "choice3": "Carbon",
+        "choice4": "Hydrogen",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "choice1": "Marie Curie",
+        "choice2": "Mother Teresa",
+        "choice3": "Jane Addams",
+        "choice4": "Pearl Buck",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "choice1": "African Elephant",
+        "choice2": "Blue Whale",
+        "choice3": "Giraffe",
+        "choice4": "Hippopotamus",
+        "answer": 2
+    },
+    {
+        "question": "Which year did the first iPhone release?",
+        "choice1": "2005",
+        "choice2": "2006",
+        "choice3": "2007",
+        "choice4": "2008",
+        "answer": 3
+    },
+    {
+        "question": "What is the speed of light?",
+        "choice1": "299,792 kilometers per second",
+        "choice2": "199,792 kilometers per second",
+        "choice3": "399,792 kilometers per second",
+        "choice4": "499,792 kilometers per second",
+        "answer": 1
+    },
+    {
+        "question": "Which is the most populous country in the world?",
+        "choice1": "USA",
+        "choice2": "China",
+        "choice3": "India",
+        "choice4": "Indonesia",
+        "answer": 3
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "choice1": "Won",
+        "choice2": "Yuan",
+        "choice3": "Yen",
+        "choice4": "Ringgit",
+        "answer": 3
+    },
+    {
+        "question": "Who invented the telephone?",
+        "choice1": "Thomas Edison",
+        "choice2": "Alexander Graham Bell",
+        "choice3": "Nikola Tesla",
+        "choice4": "Albert Einstein",
+        "answer": 2
+    },
+    {
+        "question": "What percentage of the Earth's surface is water?",
+        "choice1": "51%",
+        "choice2": "61%",
+        "choice3": "71%",
+        "choice4": "81%",
+        "answer": 3
+    },
+    {
+        "question": "Which is the smallest planet in our solar system?",
+        "choice1": "Mars",
+        "choice2": "Mercury",
+        "choice3": "Venus",
+        "choice4": "Pluto",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "choice1": "Rio de Janeiro",
+        "choice2": "São Paulo",
+        "choice3": "Brasília",
+        "choice4": "Salvador",
+        "answer": 3
+    },
+    {
+        "question": "Who painted 'The Starry Night'?",
+        "choice1": "Vincent van Gogh",
+        "choice2": "Pablo Picasso",
+        "choice3": "Claude Monet",
+        "choice4": "Salvador Dalí",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "choice1": "Gobi Desert",
+        "choice2": "Sahara Desert",
+        "choice3": "Arabian Desert",
+        "choice4": "Antarctic Desert",
+        "answer": 4
+    },
+    {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "choice1": "Silver",
+        "choice2": "Fluorine",
+        "choice3": "Iron",
+        "choice4": "Francium",
+        "answer": 3
+    },
+    {
+        "question": "What is the national flower of Japan?",
+        "choice1": "Rose",
+        "choice2": "Cherry Blossom",
+        "choice3": "Tulip",
+        "choice4": "Lotus",
+        "answer": 2
+    },
+    {
+        "question": "Who wrote '1984'?",
+        "choice1": "George Orwell",
+        "choice2": "Aldous Huxley",
+        "choice3": "Ray Bradbury",
+        "choice4": "H.G. Wells",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest bird in the world?",
+        "choice1": "Emu",
+        "choice2": "Ostrich",
+        "choice3": "Cassowary",
+        "choice4": "Condor",
+        "answer": 2
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choice1": "China",
+        "choice2": "South Korea",
+        "choice3": "Japan",
+        "choice4": "Vietnam",
+        "answer": 3
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "choice1": "90°C",
+        "choice2": "95°C",
+        "choice3": "100°C",
+        "choice4": "105°C",
+        "answer": 3
+    },
+    {
+        "question": "Who was the first person to walk on the moon?",
+        "choice1": "Neil Armstrong",
+        "choice2": "Buzz Aldrin",
+        "choice3": "Yuri Gagarin",
+        "choice4": "John Glenn",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "choice1": "Heart",
+        "choice2": "Brain",
+        "choice3": "Liver",
+        "choice4": "Skin",
+        "answer": 4
+    },
+    {
+        "question": "Which mountain is the tallest in the world?",
+        "choice1": "K2",
+        "choice2": "Mount Everest",
+        "choice3": "Kangchenjunga",
+        "choice4": "Lhotse",
+        "answer": 2
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "choice1": "Saturn",
+        "choice2": "Uranus",
+        "choice3": "Jupiter",
+        "choice4": "Neptune",
+        "answer": 3
+    },
+    {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "choice1": "Leonardo da Vinci",
+        "choice2": "Michelangelo",
+        "choice3": "Raphael",
+        "choice4": "Donatello",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "choice1": "Toronto",
+        "choice2": "Vancouver",
+        "choice3": "Ottawa",
+        "choice4": "Montreal",
+        "answer": 3
+    },
+    {
+        "question": "Which is the most abundant gas in Earth's atmosphere?",
+        "choice1": "Oxygen",
+        "choice2": "Carbon Dioxide",
+        "choice3": "Nitrogen",
+        "choice4": "Hydrogen",
+        "answer": 3
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "choice1": "Alexander Fleming",
+        "choice2": "Louis Pasteur",
+        "choice3": "Robert Koch",
+        "choice4": "Joseph Lister",
+        "answer": 1
+    },
+    {
+        "question": "What is the longest word in the English dictionary?",
+        "choice1": "Antidisestablishmentarianism",
+        "choice2": "Pneumonoultramicroscopicsilicovolcanoconiosis",
+        "choice3": "Hippopotomonstrosesquippedaliophobia",
+        "choice4": "Supercalifragilisticexpialidocious",
+        "answer": 2
+    },
+    {
+        "question": "Which country gifted the Statue of Liberty to the USA?",
+        "choice1": "Spain",
+        "choice2": "Italy",
+        "choice3": "France",
+        "choice4": "England",
+        "answer": 3
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "choice1": "Spanish",
+        "choice2": "Portuguese",
+        "choice3": "English",
+        "choice4": "French",
+        "answer": 2
+    },
+    {
+        "question": "How many hearts does an octopus have?",
+        "choice1": "One",
+        "choice2": "Two",
+        "choice3": "Three",
+        "choice4": "Four",
+        "answer": 3
+    },
+    {
+        "question": "Which animal can be seen on the Porsche logo?",
+        "choice1": "Lion",
+        "choice2": "Horse",
+        "choice3": "Bull",
+        "choice4": "Eagle",
+        "answer": 2
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "choice1": "Stapes",
+        "choice2": "Femur",
+        "choice3": "Radius",
+        "choice4": "Tibia",
+        "answer": 1
+    },
+    {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "choice1": "Isaac Newton",
+        "choice2": "Galileo Galilei",
+        "choice3": "Albert Einstein",
+        "choice4": "Stephen Hawking",
+        "answer": 3
+    },
+    {
+        "question": "What is the world's most popular beverage after water?",
+        "choice1": "Coffee",
+        "choice2": "Tea",
+        "choice3": "Cola",
+        "choice4": "Beer",
+        "answer": 2
+    },
+    {
+        "question": "Which is the only continent that lies in all four hemispheres?",
+        "choice1": "Asia",
+        "choice2": "Africa",
+        "choice3": "North America",
+        "choice4": "South America",
+        "answer": 2
+    }
+]
